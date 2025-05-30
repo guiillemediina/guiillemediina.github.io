@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+
+nav ul {
+    margin-left: 25px;
+    margin-right: 25px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+
+.perfil{
+    width: 200px;
+    height: 100%;
+    background-color: gray;
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.fotoCurriculum{
+    margin-top: 15px;
+    width: 190px;
+    height: auto;
+    border-radius: 50%;
+}
